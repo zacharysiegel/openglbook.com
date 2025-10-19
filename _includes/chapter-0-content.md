@@ -319,11 +319,11 @@ basically the only one available on multiple platforms.
 
 OpenGL was already being implemented on UNIX based workstations when Microsoft
 entered the market with their workstation operating system, Windows NT in 1993.
-Windows NT was released as a direct competitor to UNIX with networking (the NT
-acronym meaning Network Technology) and 32-bit hardware support. Windows NT
-introduced features that are still being used today, such as the Win32 API for
-creating Windows applications. But having no 3D graphics library native to
-their system, Microsoft pledged to add support for OpenGL to Windows NT.
+Windows NT was released as a direct competitor to UNIX with networking and
+32-bit hardware support. Windows NT introduced features that are still being
+used today, such as the Win32 API for creating Windows applications. But having
+no 3D graphics library native to their system, Microsoft pledged to add support
+for OpenGL to Windows NT.
 
 <img
   src="{{ site.url }}/images/Windows_NT_3.5_logo-300x224.png"
